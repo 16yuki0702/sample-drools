@@ -1,0 +1,9 @@
+package com.sample
+ 
+import com.sample.model.Sample
+rule "sampleRule"
+  when
+  $sample : Sample( data < 101 )
+  then
+  System.out.println("Sample rule!!");
+end
