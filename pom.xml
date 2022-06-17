@@ -7,7 +7,7 @@
    <name>Drools Sample</name>
    <description>Sample Drools Maven project</description>
    <properties>
-      <runtime.version>7.15.0.Final</runtime.version>
+      <runtime.version>7.60.0.Final</runtime.version>
       <cdi.version>1.2</cdi.version>
       <weld.version>2.4.8.Final</weld.version>
    </properties>
